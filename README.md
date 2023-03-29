@@ -20,6 +20,8 @@
 
 最近一次更新日期：2023 年 3 月 30 日
 
+[下载本文（/*.md 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)
+
 点击 ◆ 跳转。
 
 **一、新石器时代**（约前 8000 年 - 前 2070 年） [◆](https://github.com/Lingggao/BHCC#%E4%B8%80%E6%96%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%E7%BA%A6%E5%89%8D-8000-%E5%B9%B4---%E5%89%8D-2070-%E5%B9%B4)
@@ -51,4 +53,4 @@
 
 中国考古界目前还未完全确认夏代的存在，其文字的情况同样难以探寻。有人认为《峋嵝碑》、《汝帖》（及《绛帖》）等为禹（姒文命，夏代开国君主）所写，但这些很可能是伪作，真实性普遍存疑。
 
-[返回顶部]()
+[返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
