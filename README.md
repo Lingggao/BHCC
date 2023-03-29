@@ -20,7 +20,7 @@
 
 最近一次更新日期：2023 年 3 月 30 日
 
-[下载本文（/*.md 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)
+[下载全文（*.md 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)
 
 点击 ◆ 跳转。
 
