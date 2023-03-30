@@ -63,6 +63,12 @@
 
 “卜辞契于龟骨，其契之精而字之美，每令吾辈数千载后人神往。” —— 郭沫若先生（出自《殷契粹编》序）
 
+甲骨文之后，人们开始在铜器（主要是钟、鼎器）上刻字，这种文字统称为**钟鼎文**。又因为古人称呼铜、铁等金属为 “金”，因此钟鼎文也被叫做**金文**。金文研究自宋代起步，至清代晚期因考古学蓬勃发展得以壮大。铜器不像龟壳、兽骨一样容易破损，学术价值很高。这一时期的代表铜器诸如《毛公鼎》《散氏盘》等，字体结构自然、线条浑厚，规整但不失豪放磊落。
+
+> [点此](https://baike.baidu.com/item/%E9%87%91%E6%96%87/3464)前往百度百科 “金文” 词条查看图片并了解详情。
+>
+> [点此](https://baike.baidu.com/link?url=kwXUCgfqzpEoalk6oEH1N7jQ9TU3a-pzIg67xsjQoUr_g-YMvmHZXCrEY_tNubISQ8YXqlwSR6_obZa24F1wjAtxcRmJS6OEmzl6LaqtvNor5yVU-qAfINXXsE93c1M3)前往百度百科 “毛公鼎” 词条查看图片并了解详情。
+
 //
 
 [返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
