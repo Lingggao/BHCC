@@ -20,7 +20,7 @@
 
 最近一次更新日期：2023 年 3 月 30 日
 
-[下载全文（*.md 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)
+[下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)
 
 点击 ◆ 跳转。
 
@@ -55,6 +55,8 @@
 
 1899 年，今河南安阳一带出土了大量刻有文字的龟壳和兽骨，经过考证，出自商代晚期殷都城遗址。这些文字便是**甲骨文**，也是目前可以尝试通过研究确认其读音及含义的最古老的文字。商殷甲骨文中没有记载周代君主信息，说明其应当早于周代；内容多与《周易》相似，主要用于占卜等活动；字形古朴、简单，刚劲有力。河南安阳等地也出土了商代刻字石器，人们并非仅在龟壳兽骨上记录文字。
 
-> 点此前往百度百科 “甲骨文” 词条查看图片并了解详情。
+> [点此](https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E6%96%87/16914)前往百度百科 “甲骨文” 词条查看图片并了解详情。
+
+//
 
 [返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
