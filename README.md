@@ -103,6 +103,8 @@
 
 一些秦代兵马俑等文物上也印有小篆文字，是重要的研究资料，也是文字发展史上宝贵的 “物证”。
 
+<img src="https://github.com/Lingggao/BHCC/blob/main/%E5%9B%BE%E7%89%87/%E5%B0%8F%E7%AF%86%E4%BD%93%E5%8D%81%E4%BA%8C%E5%AD%97%E7%A0%96.jpg?raw=true" width = "30%" />
+
 // 二段
 
 // 三段
