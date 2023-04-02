@@ -106,6 +106,8 @@
 <img src="https://github.com/Lingggao/BHCC/blob/main/%E5%9B%BE%E7%89%87/%E5%B0%8F%E7%AF%86%E4%BD%93%E5%8D%81%E4%BA%8C%E5%AD%97%E7%A0%96.jpg?raw=true" width = "45%" />
 
 > 本文作者高楷修临摹秦代《小篆体十二字砖》
+> 
+> [点此](https://www.chnmuseum.cn/zp/zpml/csp/202008/t20200825_247294.shtml)前往中国国家博物馆网站欣赏《小篆体十二字砖》文物
 
 // 三段
 
