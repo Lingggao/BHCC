@@ -10,6 +10,8 @@
 
 作 者：**高楷修**，文艺工作者、上海市文学艺术界联合会 [文艺志愿者](http://www.wyzyz.org/Zhiyuanzhexiehui/201311/t20131122_232712.htm)（书法艺术门类）。
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
+
 # 目 录
 
 **爱国 为民 崇德 尚艺**
