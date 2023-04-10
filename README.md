@@ -10,7 +10,7 @@
 
 作 者：**高楷修**，文艺工作者、上海市文学艺术界联合会 [文艺志愿者](http://www.wyzyz.org/Zhiyuanzhexiehui/201311/t20131122_232712.htm)（书法艺术门类）。
 
-<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 目 录
 
@@ -22,7 +22,7 @@
 
 字数统计：5976（中文字符）
 
-最近一次更新日期：2023 年 4 月 9 日
+最近一次更新日期：2023 年 4 月 11 日
 
 [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)| [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy)
 
@@ -210,7 +210,7 @@
 
 **王献之**（344 年 - 386 年），字子敬，琅琊临沂（今山东临沂）人，东晋官员、中书令，人称 “王大令”。王献之是王羲之的第七个儿子，也是东晋第八位皇帝简文帝司马昱的女婿。他从小跟随父亲王羲之学习书法，又学习了张芝的草书。他在隶书、草书、真书、行书方面均有十分深厚的功底，与其父王羲之并称 “二王”。王献之的书法代表作品有《洛神赋十三行》《东山松帖》《廿九日帖》《鸭头丸帖》《中秋帖》等。因唐太宗李世民不喜欢他的书法，不肯购求他的作品，故他的真迹传世很少，上述列举的这些作品也有待考证真伪。
 
-// 王 珣
+王 珣（349 年 - 400 年），字元琳，东晋大臣。他是王羲之的族侄（祖父的亲兄弟的曾孙子）。
 
 // 碑 刻
 
