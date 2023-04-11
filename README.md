@@ -20,11 +20,11 @@
 
 ---
 
-本文访问量：280+
+本文访问量：300+
 
 字数统计：6151（中文字符）
 
-最近一次更新日期：2023 年 4 月 11 日
+最近一次更新日期：2023 年 4 月 12 日
 
 [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)| [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy)
 
@@ -224,7 +224,7 @@
 
 # 六、南北朝（420 年 - 589 年）
 
-//
+上面五章对中国的七种文字（甲骨文、金文、篆书、隶书、草书、真书、行书）作了简单的介绍。从南北朝时期直到现在，虽然书法艺术风格仍在持续发展、名家巨作层出不穷，但文字形态始终没有发生根本变化。也就是说，还没有第八种 “×书” 可以与上面七种字体并列。
 
 //
 
