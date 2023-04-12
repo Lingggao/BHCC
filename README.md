@@ -6,11 +6,11 @@
 
 如望详细学习中国书法史，推荐阅读清华大学美术学院教授**叶喆民**先生著作《中国书法史论》（河北出版传媒集团 河北美术出版社）。[点此](https://item.jd.com/28672549908.html)前往京东购买《中国书法史论》一书。作者谨以本文深切缅怀叶喆民先生。
 
-本文允许任意转载、自由使用。水平尚浅，诚挚欢迎批评指正。谢谢！
+本文允许在遵守[许可协议](https://github.com/Lingggao/BHCC/blob/main/LICENSE)的前提下任意转载、自由使用。水平尚浅，诚挚欢迎批评指正。谢谢！
 
 作 者：**高楷修**，文艺工作者、上海市文学艺术界联合会 [文艺志愿者](http://www.wyzyz.org/Zhiyuanzhexiehui/201311/t20131122_232712.htm)（书法艺术门类）。
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 目 录
 
