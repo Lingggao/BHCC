@@ -22,9 +22,9 @@
 
 本文访问量：400+
 
-字数统计：6746（中文字符）
+字数统计：6779（中文字符）
 
-最近一次更新日期：2023 年 4 月 13 日
+最近一次更新日期：2023 年 4 月 14 日
 
 [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)| [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy)
 
@@ -65,7 +65,7 @@
 - 魏 碑
 - 郑文公碑
 
-> ● 为目录不完全导读（多位作者 / 多部作品仅标注其中一个）
+> ● 为目录不完全导读（多位作者 / 多部作品只标注其中一个）
 
 # 一、新石器时代（约前 8000 年 - 前 2070 年）
 
@@ -261,7 +261,7 @@
 - //
 - //
 
-> 点此
+> [点此](https://baike.baidu.com/item/%E9%AD%8F%E7%A2%91/7187676)前往百度百科 “魏碑” 词条查看图片并了解详情。
 
 //
 
