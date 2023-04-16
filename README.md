@@ -12,14 +12,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 目 录
-
-**爱国 为民 崇德 尚艺**
-
-—— 中国文学艺术界核心价值观
-
----
-
 本文访问量：400+
 
 字数统计：6779（中文字符）
@@ -27,6 +19,14 @@
 最近一次更新日期：2023 年 4 月 14 日
 
 [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)| [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy)
+
+# 目 录
+
+**爱国 为民 崇德 尚艺**
+
+—— 中国文学艺术界核心价值观
+
+---
 
 请点击 ◆ 跳转。
 
@@ -265,6 +265,27 @@
 
 //
 
-[返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
+//
+
+# 参考文献
+
+//
+
+//
+
+**全文完**。
 
 Copyright © 2023 高楷修, all rights reserved.
+
+# 进一步推进书法界职业道德与行风建设
+
+- 追求务实学风；
+- 倡导雅正书风；
+- 弘扬优良文风；
+- 改进协会作风；
+- 引领行业新风。
+
+//
+
+[返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
+
