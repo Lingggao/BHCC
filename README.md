@@ -287,7 +287,7 @@ Copyright © 2023 高楷修, all rights reserved.
 
 《[关于进一步推进书法界职业道德与行风建设的五条意见](http://www.cca1981.org.cn/xwtj/202304/t20230416_1277351.html)》
 
-
+<img src="https://github.com/Lingggao/BHCC/blob/main/01.jpg?raw=true" width = "36%" />
 
 [返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
 
