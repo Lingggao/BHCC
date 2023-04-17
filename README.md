@@ -18,6 +18,9 @@
 
 最近一次更新日期：2023 年 4 月 17 日
 
+| [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy) |
+| :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
+
 [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)| [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy)
 
 # 目 录
@@ -289,7 +292,7 @@ Copyright © 2023 高楷修, all rights reserved.
 
 <img src="https://github.com/Lingggao/BHCC/blob/main/01.jpg?raw=true" width = "50%" />
 
-> 本文作者书
+> 本文作者书（硬笔）
 
 [返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
 
