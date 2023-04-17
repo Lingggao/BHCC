@@ -16,12 +16,10 @@
 
 字数统计：6779（中文字符）
 
-最近一次更新日期：2023 年 4 月 17 日
+最近一次更新日期：2023 年 4 月 18 日
 
 | [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
-
-[下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip)| [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy)
 
 # 目 录
 
@@ -288,7 +286,7 @@ Copyright © 2023 高楷修, all rights reserved.
 - 改进协会作风；
 - 引领行业新风。
 
-《[关于进一步推进书法界职业道德与行风建设的五条意见](http://www.cca1981.org.cn/xwtj/202304/t20230416_1277351.html)》
+《[关于进一步推进书法界职业道德与行风建设的五条意见](http://www.cca1981.org.cn/xwtj/202304/t20230416_1277351.html)》（中国书法家协会，2023 年 4 月 15 日）
 
 <img src="https://github.com/Lingggao/BHCC/blob/main/01.jpg?raw=true" width = "50%" />
 
