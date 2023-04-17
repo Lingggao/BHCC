@@ -10,6 +10,8 @@
 
 作 者：**高楷修**，文艺工作者、上海市文学艺术界联合会 [文艺志愿者](http://www.wyzyz.org/Zhiyuanzhexiehui/201311/t20131122_232712.htm)（书法艺术门类）。
 
+---
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
 本文访问量：400+
