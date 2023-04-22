@@ -279,12 +279,6 @@
 
 //
 
-# 参考文献
-
-1. //
-
-//
-
 **全文完**。
 
 Copyright © 2023 高楷修, all rights reserved.
@@ -304,4 +298,3 @@ Copyright © 2023 高楷修, all rights reserved.
 > 本文作者书（硬笔）
 
 [返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
-
