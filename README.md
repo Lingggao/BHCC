@@ -8,7 +8,7 @@
 
 &emsp;&emsp;本文在遵守[许可协议](https://github.com/Lingggao/BHCC/blob/main/LICENSE)的前提下，可随意转载、免费使用。水平尚浅，恳切欢迎批评、指正。谢谢！
 
-&emsp;&emsp;作 者：**高楷修**，文艺工作者、上海市文学艺术界联合会 [文艺志愿者](http://www.wyzyz.org/Zhiyuanzhexiehui/201311/t20131122_232712.htm)（书法艺术门类）。
+&emsp;&emsp;作者：**高楷修**，文艺工作者、上海市文学艺术界联合会 [文艺志愿者](http://www.wyzyz.org/Zhiyuanzhexiehui/201311/t20131122_232712.htm)（书法艺术门类）。
 
 ---
 
