@@ -14,11 +14,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
-本文访问量：800+
+本文访问量：900+
 
 字数统计：7800+（中文字符）
 
-最近一次更新日期：2023 年 5 月 8 日
+最近一次更新日期：2023 年 5 月 9 日
 
 | [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
@@ -275,7 +275,7 @@
 
 # 七、隋（581 年 - 618 年）
 
-&emsp;&emsp;隋代一统中国南北之后，隋文帝杨坚总结了历代兴衰规律，保持朝野和谐、协调宗室内部矛盾，励精图治、勤俭自持，经济和文化得以快速发展，社会稳定、人民安居乐业，开创了 “开皇之治” 繁荣之势。但好景不长，杨坚到了晚年变得刚愎自用，他施行严苛的刑罚、诛杀功臣，国力日渐衰弱。604 年，杨坚去世，隋炀帝杨广即位。杨广好大喜功，他大兴土木、穷兵黩武，最终引发百姓起义。618 年，隋代灭亡，国祚仅 38 年。
+&emsp;&emsp;隋代一统中国南北后，隋文帝杨坚总结了历代兴衰规律，他维系朝野和谐，协调宗室内部矛盾，励精图治、勤俭自持，经济和文化得以快速发展，社会稳定，人民安居乐业，开创了 “开皇之治” 繁荣局势。但好景不长，杨坚到了晚年变得刚愎自用，他施行严苛的刑罚、诛杀功臣，国力日渐衰弱。604 年，杨坚去世，隋炀帝杨广即位。杨广好大喜功，他大兴土木、穷兵黩武，最终引发百姓起义。618 年，隋代灭亡，国祚仅 38 年。
 
 > [点此](https://baike.baidu.com/link?url=tJ6S_bMKETX3STbWG6bG9tVh-Ww-p7ACsYBTscSZD0fdu0F_zuAj8N0blDGDUh6G0h1l3naK4UoNN5_yKKGDTL9BMXxqiuZF6KR-y12nPAS)前往百度百科 “隋朝” 词条了解详情。
 
