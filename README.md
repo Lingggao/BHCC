@@ -311,11 +311,11 @@
 
 ---
 
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.png" width = "3%" />
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width = "3%" />
 
 本文在 “[署名 - 相同方式共享 3.0 中国大陆](https://creativecommons.org/licenses/by-sa/3.0/cn/legalcode)” 协议（CC BY-SA 3.0 CN）之条款下提供。
 
-2023，高楷修，《中国书法简史》，https://github.com/Lingggao/BHCC & https://linggao.gitbook.io/bhcc
+高楷修,《中国书法简史》, https://github.com/Lingggao/BHCC & https://linggao.gitbook.io/bhcc
 
 # 进一步推进书法界职业道德与行风建设
 
