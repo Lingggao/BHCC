@@ -74,6 +74,7 @@
 - 释智永
 
 **八、唐**（618 年 - 907 年） [◆](https://github.com/Lingggao/BHCC#%E5%85%AB%E5%94%90618-%E5%B9%B4---907-%E5%B9%B4)
+
 - //
 
 **进一步推进书法界职业道德与行风建设** [◆](https://github.com/Lingggao/BHCC#%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E4%B9%A6%E6%B3%95%E7%95%8C%E8%81%8C%E4%B8%9A%E9%81%93%E5%BE%B7%E4%B8%8E%E8%A1%8C%E9%A3%8E%E5%BB%BA%E8%AE%BE)
@@ -308,7 +309,11 @@
 
 **全文未完**。
 
-Copyright © 2023 高楷修, all rights reserved.
+---
+
+本文在 “署名 - 相同方式共享 3.0” 协议（CC BY-SA 3.0）之条款下提供。
+
+2023，高楷修，《中国书法简史》，https://github.com/Lingggao/BHCC & https://linggao.gitbook.io/bhcc
 
 # 进一步推进书法界职业道德与行风建设
 
