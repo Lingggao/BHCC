@@ -1,6 +1,6 @@
 # 中国书法简史
 
-#### Brief History of Chinese Calligraphy
+### Brief History of Chinese Calligraphy
 
 &emsp;&emsp;**简单的科普短文**。适合**青少年书法 / 历史爱好者**阅读。
 
