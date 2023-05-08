@@ -1,5 +1,4 @@
 # 中国书法简史
-### Brief History of Chinese Calligraphy
 
 &emsp;&emsp;**简单的科普短文**。适合**青少年书法 / 历史爱好者**阅读。
 
@@ -332,4 +331,4 @@
 
 > 本文作者书（硬笔）
 
-[返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2-brief-history-of-chinese-calligraphy)
+[返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2)
