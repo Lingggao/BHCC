@@ -311,7 +311,7 @@
 
 ---
 
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.png" width = "2%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.png" width = "2%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.png" width = "2%" />
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.png" width = "5%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.png" width = "5%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.png" width = "5%" />
 
 本文在 “署名 - 相同方式共享 3.0” 协议（CC BY-SA 3.0）之条款下提供。
 
