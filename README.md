@@ -6,7 +6,7 @@
 
 &emsp;&emsp;如望详细学习中国书法史，推荐阅读清华大学美术学院教授**叶喆民**先生著作《中国书法史论》（河北出版传媒集团 河北美术出版社）。[点此](https://item.jd.com/28672549908.html)前往京东购买《中国书法史论》一书。笔者谨以本文深切缅怀叶喆民先生。
 
-&emsp;&emsp;本文在遵守[许可协议](https://creativecommons.org/licenses/by-sa/3.0/cn/legalcode)的前提下，可随意转载、免费使用。水平尚浅，恳切欢迎批评、指正。谢谢！
+&emsp;&emsp;本文在遵守[许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans)的前提下，可随意转载、免费使用（非商业性）。水平尚浅，恳切欢迎批评、指正。谢谢！
 
 &emsp;&emsp;作者：**高楷修**，文艺工作者、上海市文学艺术界联合会 [文艺志愿者](http://www.wyzyz.org/Zhiyuanzhexiehui/201311/t20131122_232712.htm)（书法艺术门类）。
 
@@ -311,11 +311,11 @@
 
 ---
 
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width = "3%" />
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/nc-jp.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width = "3%" />
 
-本文在 “[署名 - 相同方式共享 3.0 中国大陆](https://creativecommons.org/licenses/by-sa/3.0/cn/legalcode)” 协议（CC BY-SA 3.0 CN）之条款下提供。
+本文在 “[署名 - 非商业性使用 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans)” 协议（CC BY-NC-SA 4.0）之条款下提供。
 
-高楷修,《中国书法简史》, https://github.com/Lingggao/BHCC & https://linggao.gitbook.io/bhcc
+2023, 高楷修,《中国书法简史》, https://github.com/Lingggao/BHCC & https://linggao.gitbook.io/bhcc
 
 # 进一步推进书法界职业道德与行风建设
 
