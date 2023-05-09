@@ -120,7 +120,7 @@
 
 > [点此](https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E6%96%87/16914)前往百度百科 “甲骨文” 词条查看图片并了解详情。
 
-<img src="https://i.postimg.cc/vTk7q7hb/1.jpg" width = "20%" />
+<img src="https://i.postimg.cc/vTk7q7hb/1.jpg" width = "25%" />
 
 > 一片刻有甲骨文的兽骨（[∧](https://commons.wikimedia.org/wiki/File:CMOC_Treasures_of_Ancient_China_exhibit_-_oracle_bone_inscription.jpg) 维基百科, Editor at Large, CC BY-SA 2.5）
 
