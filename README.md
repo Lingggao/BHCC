@@ -120,6 +120,10 @@
 
 > [点此](https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E6%96%87/16914)前往百度百科 “甲骨文” 词条查看图片并了解详情。
 
+<img src="https://i.postimg.cc/vTk7q7hb/1.jpg" width = "30%" />
+
+> 一片刻有甲骨文的兽骨（[∧](https://commons.wikimedia.org/wiki/File:CMOC_Treasures_of_Ancient_China_exhibit_-_oracle_bone_inscription.jpg) 维基百科, Editor at Large, CC BY-SA 2.5）
+
 &emsp;&emsp;1975 年，今江西清江一带出土了商代和周代时期刻有六十六个几乎无法辨识的文字的陶器。翌年，在今天的陕西岐山地区周代早期都城遗址中，出土了近三百片刻有文字的兽骨。与以往不同的是，这些甲骨文非常小，细如发丝，要用放大镜才能看清。这表明，周代已经发展出了相当高的刻字水平。
 
 &emsp;&emsp;甲骨文以象形字为主，字形千变万化。由此可见，那个时代的人们已经有了很高的观察和抽象概括能力。后世出现的**金文**和**篆书**同甲骨文一脉相承。从甲骨文中可以窥见中国书法与绘画之间的紧密联系 —— “书画同源”。
