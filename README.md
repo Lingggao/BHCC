@@ -136,6 +136,10 @@
 >
 > [点此](https://baike.baidu.com/link?url=kwXUCgfqzpEoalk6oEH1N7jQ9TU3a-pzIg67xsjQoUr_g-YMvmHZXCrEY_tNubISQ8YXqlwSR6_obZa24F1wjAtxcRmJS6OEmzl6LaqtvNor5yVU-qAfINXXsE93c1M3)前往百度百科 “毛公鼎” 词条查看图片并了解详情。
 
+<img src="https://i.postimg.cc/WbJ1JRDh/Song-ding-inscription.jpg" width = "30%" />
+
+> 刻于约前 800 年的金文鼎器（[∧](https://commons.wikimedia.org/wiki/File:Song_ding_inscription.jpg) 维基百科, 公有领域）
+
 &emsp;&emsp;再后来，就有了迄今已知最古老的石刻文字 —— 十首四言诗，分别刻在十块形状如鼓的石头上，因此得名**石鼓文**，也称**大篆**。石鼓的确切刻字年代，考古界尚无明确结论（可能是周代、秦代乃至汉代、北魏，具体有近二十种假说）。石鼓文（大篆）是篆书之祖，“篆” 意为 “引笔书写，笔画横直，粗细一致，婉润典雅”。
 
 &emsp;&emsp;简言之，商代和周代时期的书法以钟鼎文（金文）为主，石鼓文（大篆）次之。
