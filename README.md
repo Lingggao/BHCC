@@ -146,7 +146,7 @@
 
 > [点此](https://baike.baidu.com/item/%E5%A4%A7%E7%AF%86/835452)前往百度百科 “大篆” 词条查看图片并了解详情。
 
-<img src="https://i.postimg.cc/138W0HGC/Shiguwen.jpg" width = "16%" />
+<img src="https://i.postimg.cc/138W0HGC/Shiguwen.jpg" width = "20%" />
 
 > 十块石鼓中的第一鼓（[∧](https://commons.wikimedia.org/wiki/File:Shiguwen.jpg) 维基百科, 公有领域）
 
