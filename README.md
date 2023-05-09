@@ -100,11 +100,15 @@
 
 <img src="https://i.postimg.cc/9MLV5jmp/2.png" width = "30%" />
 
-> ∧ 来源：维基百科, https://zh.wikipedia.org, “八卦” 条目
+> ∧ 来源：维基百科, https://zh.wikipedia.org, “八卦” 条目, CC BY-SA 3.0 协议
 
 &emsp;&emsp;仰韶文化和马家窑文化遗址出土的陶器上常刻有用于记事的符号，造型与山川、日月、河流、云彩等类似。相传，这些符号的创造者是仓颉（一说苍颉）。事实上，同一时期有许多人创造过记事符号，唯独仓颉的作品得以流传延续，因为他创造的记事符号遵循了具体的规律和法则，并非随心所欲。
 
 > [点此](https://baike.baidu.com/item/%E4%BB%93%E9%A2%89/735)前往百度百科 “仓颉” 词条了解详情。
+
+<img src="https://i.postimg.cc/8cNVRkHr/1.jpg" width = "30%" />
+
+> ∧ 来源：Xuan Che, https://www.flickr.com/photos/rosemania/4533297189, CC BY 2.0 协议
 
 &emsp;&emsp;就以上情况来看，中国的文字源远流长、前后相继，和西方的文字并无直接联系。
 
