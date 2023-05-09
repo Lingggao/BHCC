@@ -146,6 +146,10 @@
 
 > [点此](https://baike.baidu.com/item/%E5%A4%A7%E7%AF%86/835452)前往百度百科 “大篆” 词条查看图片并了解详情。
 
+<img src="https://i.postimg.cc/138W0HGC/Shiguwen.jpg" width = "16%" />
+
+> 十块石鼓中的第一鼓（[∧](https://commons.wikimedia.org/wiki/File:Shiguwen.jpg) 维基百科, 公有领域）
+
 # 三、春秋 战国 秦（前 770 年 - 前 206 年）
 
 &emsp;&emsp;春秋时期，诸国各自为政，没有统一的文字。这一时期的传世文物不多，带有文字的更为少见。
