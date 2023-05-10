@@ -196,7 +196,9 @@
 
 > [点此](https://baike.baidu.com/item/%E4%BA%94%E5%87%A4%E4%BA%8C%E5%B9%B4%E5%88%BB%E7%9F%B3/8469688)前往百度百科 “五凤二年刻石” 词条查看图片并了解详情。
 
-<img src="https://i.postimg.cc/T2m5BXHG/1.jpg" width = "60%" />
+<img src="https://i.postimg.cc/T2m5BXHG/1.jpg" width = "50%" />
+
+> 现藏于中国审计博物馆的云梦睡虎地秦简（[∧](https://commons.wikimedia.org/wiki/File:Bamboo_Slips_of_Qin_Dynasty_Unearthed_from_Shuihudi_2013-01.JPG) 维基百科, 猫猫的日记本, CC BY-SA 3.0）
 
 &emsp;&emsp;新朝（又称新莽，西汉、东汉间过渡性王朝）时期，**汉隶**出现。这一时期的隶书书法风格迥异、各具特色。有的古拙，有的工整，有的飘逸，有的奔放。汉宣帝刘询时期，隶书书法百花齐放，正式走向成熟。
 
