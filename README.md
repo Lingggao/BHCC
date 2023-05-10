@@ -246,6 +246,10 @@
 
 > [点此](https://baike.baidu.com/item/%E4%BB%8A%E8%8D%89/5737126)前往百度百科 “今草” 词条查看图片并了解详情。
 
+<img src="https://i.postimg.cc/jdwhvBtV/1.jpg" width = "30%" />
+
+> 张芝今草作品今欲归帖（[∧](https://commons.wikimedia.org/wiki/File:%E5%BC%A0%E8%8A%9D%E4%BB%8A%E6%AC%B2%E5%BD%92%E5%B8%96.jpg) 维基百科, Alexwang~commonswiki [推断], CC BY-SA 3.0）
+
 &emsp;&emsp;**行书**由真书进一步发展形成，相传为东汉书法家刘德升所创，是一种同时弥补真书 “书写速度较慢” 和草书 “难以轻松辨识” 两个弊端的 “折中” 字体。行书在真书的基础上加速行笔，多用于公文及日常书信。
 
 &emsp;&emsp;“即正书之小讹，务从简易，相间流行，故谓之行书。” —— 唐代书法家张怀瓘（出自《书断》）
