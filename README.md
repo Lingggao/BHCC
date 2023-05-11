@@ -305,7 +305,7 @@
 
 > [点此](https://baike.baidu.com/item/%E7%8E%8B%E7%BE%B2%E4%B9%8B/127554)前往百度百科 “王羲之” 词条了解详情。
 
-<img src="https://i.postimg.cc/sDcq2t2r/1.jpg" width = "30%" />
+<img src="https://i.postimg.cc/sDcq2t2r/1.jpg" width = "25%" />
 
 > 王羲之行书作品快雪时晴帖局部（[∧](https://commons.wikimedia.org/wiki/File:%E5%BF%AB%E9%9B%AA%E6%99%82%E6%99%B4%E5%B8%96(%E5%B1%80%E9%83%A8).jpg) 维基百科，公有领域）
 
