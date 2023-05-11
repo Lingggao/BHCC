@@ -307,7 +307,7 @@
 
 <img src="https://i.postimg.cc/sDcq2t2r/1.jpg" width = "25%" />
 
-> 现藏于中国台北故宫博物院的快雪时晴帖临摹本局部（[∧](https://commons.wikimedia.org/wiki/File:%E5%BF%AB%E9%9B%AA%E6%99%82%E6%99%B4%E5%B8%96(%E5%B1%80%E9%83%A8).jpg) 维基百科, 公有领域）
+> 现藏于中国台北故宫博物院的快雪时晴帖临摹本（[∧](https://commons.wikimedia.org/wiki/File:%E5%BF%AB%E9%9B%AA%E6%99%82%E6%99%B4%E5%B8%96(%E5%B1%80%E9%83%A8).jpg) 维基百科, 公有领域）
 
 &emsp;&emsp;**王献之**（344 年 - 386 年），字子敬，琅琊临沂（今山东临沂）人，东晋官员、中书令，人称 “王大令”。王献之为王羲之第七子，东晋第八位皇帝简文帝司马昱的女婿。他自幼随其父王羲之学习书法，后学习张芝的草书。他在隶书、草书、真书、行书方面都有很深的造诣，和父亲王羲之合称 “二王”。王献之的书法代表作有《洛神赋十三行》《东山松帖》《廿九日帖》《鸭头丸帖》《中秋帖》等。由于唐太宗李世民不喜欢他的书法，不肯购买他的作品，故他的真迹流传甚少，以上所列作品也有待考辨真伪。
 
@@ -322,6 +322,10 @@
 &emsp;&emsp;“潇洒古淡，东晋风流，宛然在眼。” —— 明代大臣、书画家董其昌（出自《画禅室随笔》）
 
 > [点此](https://www.dpm.org.cn/collection/handwriting/228199.html)前往中国故宫博物院网站欣赏【王珣行书伯远帖】藏品。
+
+<img src="https://i.postimg.cc/Y0qS5CBh/1.jpg" width = "60%" />
+
+> 王珣行书作品伯远帖（[∧](https://zh.wikipedia.org/wiki/File:The_Calligraphy_Model_Boyuan_by_Wang_Xun.jpg) 维基百科, 公有领域）
 
 # 六、南北朝（420 年 - 589 年）
 
