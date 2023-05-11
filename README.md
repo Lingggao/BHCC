@@ -14,13 +14,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
-本文访问量：1000+
+本文访问量：1100+
 
 字数统计：7900+（中文字符）
 
 图 像：10+
 
-最近一次更新日期：2023 年 5 月 11 日
+最近一次更新日期：2023 年 5 月 12 日
 
 | [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
@@ -282,6 +282,10 @@
 &emsp;&emsp;好在，李世民得到《兰亭序》真迹后，即令虞世南、褚遂良、冯承素、欧阳询等书法家各自进行临摹复刻，合称 “唐人摹本”。其中，冯承素临摹本（实际作者尚存疑）品质最高，章法、结构、笔法都颇具原作神韵。卷首印有唐中宗李哲的 “神龙” 年号，故冯承素临摹本又称 “神龙本”。神龙本采用 “双钩廓填法” 临摹 —— 先钩摹文字轮廓，再对照真迹临写，并补充各种细节（比如线条中的 “毛边”）。神龙本现藏于中国故宫博物院。
 
 > [点此](https://www.dpm.org.cn/collection/handwriting/228279.html)前往中国故宫博物院网站欣赏【冯承素行书摹兰亭序卷】藏品。
+
+<img src="https://i.postimg.cc/Hk3CyqvH/1.jpg" width = "80%" />
+
+> 现藏于中国故宫博物院的兰亭序神龙本（[∧](https://commons.wikimedia.org/wiki/File:LantingXu.jpg) 维基百科, 公有领域）
 
 &emsp;&emsp;下表是王羲之的部分书法作品：
 
