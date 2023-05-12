@@ -401,7 +401,7 @@
 
 《[关于进一步推进书法界职业道德与行风建设的五条意见](http://www.cca1981.org.cn/xwtj/202304/t20230416_1277351.html)》（中国书法家协会，2023 年 4 月 15 日）
 
-<img src="https://i.postimg.cc/VkvyV91m/01.jpg" width = "50%" />
+<img src="https://i.postimg.cc/VkvyV91m/01.jpg" width = "35%" />
 
 > 本文作者书（硬笔）
 
