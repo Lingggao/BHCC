@@ -14,7 +14,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
-本文访问量：1100+
+本文访问量：1200+
 
 字数统计：7900+（中文字符）
 
@@ -378,6 +378,8 @@
 > [点此](https://baike.baidu.com/item/%E9%87%8A%E6%99%BA%E6%B0%B8)前往百度百科 “释智永” 词条了解详情。
 
 # 八、唐（618 年 - 907 年）
+
+唐代是书学鼎盛的时代。在多代君主的共同努力下，唐代文化逐渐成为了中国封建文化乃至当时世界文化的高峰。唐代统治阶级十分重视书法艺术，前文提到过，唐太宗李世民热爱书法，他既身体力行地学习书法，又将它充分融入到教育、科举、选官的方方面面。纵观唐代书法，其对前朝有传承，更有革新。
 
 
 
