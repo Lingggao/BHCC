@@ -392,7 +392,7 @@
 
 > [点此](https://baike.baidu.com/item/%E8%99%9E%E4%B8%96%E5%8D%97/331557)前往百度百科 “虞世南” 词条了解详情。
 
-//
+<img src="https://i.postimg.cc/FRmx7St3/1.jpg" width = "30%" />
 
 //
 
