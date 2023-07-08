@@ -396,6 +396,10 @@
 
 > 虞世南楷书作品孔子庙堂碑拓印本（[∧](https://commons.wikimedia.org/wiki/File:MET_LC-1977_375_12_at-001.jpg) 维基百科, Metropolitan Museum of Art, CC0 1.0）
 
+<img src="https://i.postimg.cc/t4DJ3T4Q/2.jpg" width = "50%" />
+
+> 现藏于上海博物馆的虞世南行书作品汝南公主墓志（[∧](https://commons.wikimedia.org/wiki/File:Yu_Shi-Nan_Calligraphy_02.jpg) 维基百科, 公有领域）
+
 **全文未完**。
 
 ---
