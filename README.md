@@ -364,10 +364,6 @@
 
 &emsp;&emsp;释智永（生卒年不详），原名王法极，晋代书法家王羲之第七世孙。智永僧人居住在位于今浙江湖州的永欣寺，他深居简出，数十年如一日地临习书法，未曾间断。晚年，智永僧人用真书和草书字体写成《千字文》千余册，赠予浙江其他佛寺。后世书法家、学者对他的书法毁誉参半，有人认为其字 “呆滞”。
 
-<img src="https://i.postimg.cc/htMrkvyh/2.jpg" width = "25%" />
-
-> 释智永真书草书作品千字文（[∧](https://commons.wikimedia.org/wiki/File:ZhiYong1000charcter.jpg) 维基百科, 公有领域）
-
 &emsp;&emsp;（褒）“骨气深稳，体兼众妙，精能之致，反造疏澹。” —— 宋代文学家、书法家苏轼
 
 &emsp;&emsp;（偏褒）“微尚有道（张芝）之风，半得右军（王羲之）之肉。” —— 唐代书法家张怀瓘（出自《书断》）
@@ -377,6 +373,10 @@
 &emsp;&emsp;（贬）“可怜智永砚空臼，去本一步呈千嗤。” —— 宋代书法家米芾
 
 > [点此](https://baike.baidu.com/item/%E9%87%8A%E6%99%BA%E6%B0%B8)前往百度百科 “释智永” 词条了解详情。
+
+<img src="https://i.postimg.cc/htMrkvyh/2.jpg" width = "25%" />
+
+> 释智永真书草书作品千字文（[∧](https://commons.wikimedia.org/wiki/File:ZhiYong1000charcter.jpg) 维基百科, 公有领域）
 
 # 八、唐（618 年 - 907 年）
 
@@ -407,6 +407,8 @@
 &emsp;&emsp;“龙蛇战斗之象，云雾轻笼之势，森森焉若武库矛戟。” —— 唐代书法家张怀瓘（出自《书断》）
 
 &emsp;&emsp;“不择纸笔，皆得如意。” —— “初唐四家” 之一虞世南
+
+> [点此](https://baike.baidu.com/item/%E6%AC%A7%E9%98%B3%E8%AF%A2/481644)前往百度百科 “欧阳询” 词条了解详情。
 
 <img src="https://i.postimg.cc/sDZ03vnP/1.jpg" width = "25%" />
 
