@@ -412,7 +412,7 @@
 
 > 欧阳询楷书作品九成宫醴泉铭拓印本（[∧](https://commons.wikimedia.org/wiki/File:%E4%B9%9D%E6%88%90%E5%AE%AB%E6%8B%93%E6%9C%AC%E5%86%8C%E9%A1%B54.jpg) 维基百科, Yunseng, CC0 1.0）
 
-<img src="https://i.postimg.cc/c42C85By/1.png" width = "60%" />
+<img src="https://i.postimg.cc/c42C85By/1.png" width = "65%" />
 
 > 欧阳询行书作品千字文局部（[∧](https://commons.wikimedia.org/wiki/File:%E6%AC%A7%E9%98%B3%E8%AF%A2%E8%A1%8C%E4%B9%A6%E3%80%8A%E5%8D%83%E5%AD%97%E6%96%87%E3%80%8B.jpg) 维基百科, Yunseng, CC0 1.0）
 
