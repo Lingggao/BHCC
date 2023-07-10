@@ -82,7 +82,7 @@
 
 **进一步推进书法界职业道德与行风建设** [◆](https://github.com/Lingggao/BHCC#%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E4%B9%A6%E6%B3%95%E7%95%8C%E8%81%8C%E4%B8%9A%E9%81%93%E5%BE%B7%E4%B8%8E%E8%A1%8C%E9%A3%8E%E5%BB%BA%E8%AE%BE)
 
-**技术支持** [◆]()
+**技术支持** [◆](https://github.com/Lingggao/BHCC#%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81)
 
 > ● 为目录不完全导读（多位作者 / 多部作品只标注其中一个）
 
@@ -465,10 +465,10 @@
 - 百度百科 - 资料
 - Creative Commons - 许可协议
 - Microsoft Forms - 调查表
-- Postimages - 图片托管
+- Postimages - 图像托管
 - Adobe Lightroom Classic - 调色
 - Pixlr - 调色
-- “夸克 Quark” App - AI 提升图片清晰度
+- “夸克 Quark” App - AI 提升图像清晰度
 - “书法字典大全” App - 数字装裱
 
 &emsp;&emsp;谢谢！
