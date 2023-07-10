@@ -418,7 +418,7 @@
 
 > 欧阳询行书作品千字文局部（[∧](https://commons.wikimedia.org/wiki/File:%E6%AC%A7%E9%98%B3%E8%AF%A2%E8%A1%8C%E4%B9%A6%E3%80%8A%E5%8D%83%E5%AD%97%E6%96%87%E3%80%8B.jpg) 维基百科, Yunseng, CC0 1.0）
 
-//
+褚遂良（），
 
 //
 
