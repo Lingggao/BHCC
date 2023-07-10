@@ -16,11 +16,11 @@
 
 本文访问量：1200+
 
-字数统计：8900+（中文字符）
+字数统计：9000+（中文字符）
 
 图 像：20+
 
-最近一次更新日期：2023 年 7 月 10 日
+最近一次更新日期：2023 年 7 月 11 日
 
 | [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
@@ -81,6 +81,8 @@
 - //
 
 **进一步推进书法界职业道德与行风建设** [◆](https://github.com/Lingggao/BHCC#%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E4%B9%A6%E6%B3%95%E7%95%8C%E8%81%8C%E4%B8%9A%E9%81%93%E5%BE%B7%E4%B8%8E%E8%A1%8C%E9%A3%8E%E5%BB%BA%E8%AE%BE)
+
+**技术支持** [◆]()
 
 > ● 为目录不完全导读（多位作者 / 多部作品只标注其中一个）
 
@@ -449,5 +451,26 @@
 <img src="https://i.postimg.cc/VkvyV91m/01.jpg" width = "35%" />
 
 > 本文作者书（硬笔）
+
+# 技术支持
+
+&emsp;&emsp;撰写本文时，使用了如下产品和服务。笔者表示诚挚的谢意。
+
+&emsp;&emsp;（排名不分先后）
+
+- GitHub - 存储
+- GitBook - 存储
+- Microsoft Edge - 浏览
+- 维基百科 Wikipedia - 资料 & 图片
+- 百度百科 - 资料
+- Creative Commons - 许可协议
+- Microsoft Forms - 调查表
+- Postimages - 图片托管
+- Adobe Lightroom Classic - 调色
+- Pixlr - 调色
+- “夸克 Quark” App - AI 提升图片清晰度
+- “书法字典大全” App - 数字装裱
+
+&emsp;&emsp;谢谢！
 
 [返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2)
