@@ -470,6 +470,7 @@
 
 &emsp;&emsp;（排名不分先后）
 
+- Typora - 编辑
 - GitHub - 存储
 - GitBook - 存储
 - Microsoft Edge - 浏览
