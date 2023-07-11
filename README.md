@@ -424,7 +424,7 @@
 
 <img src="https://i.postimg.cc/pLJqXbzb/1.jpg" width = "95%" />
 
-
+> 现藏于中国台北故宫博物院的褚遂良楷书作品倪宽赞（[∧](https://commons.wikimedia.org/wiki/File:Ni_Kuan_Zan_by_Chu_Suiliang.jpg) 维基百科, 公有领域）
 
 //
 
