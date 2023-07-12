@@ -14,7 +14,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
-本文访问量：1300+
+本文访问量：1400+
 
 字数统计：10200+（中文字符）
 
@@ -76,6 +76,7 @@
 - 释智永
 
 **八、唐**（618 年 - 907 年） [◆](https://github.com/Lingggao/BHCC#%E5%85%AB%E5%94%90618-%E5%B9%B4---907-%E5%B9%B4)
+
 - 初唐四家（虞世南、欧阳询、褚遂良、薛稷）
 - 初唐（陆柬之、//等）
 - //
