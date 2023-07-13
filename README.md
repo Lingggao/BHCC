@@ -78,7 +78,7 @@
 **八、唐**（618 年 - 907 年） [◆](https://github.com/Lingggao/BHCC#%E5%85%AB%E5%94%90618-%E5%B9%B4---907-%E5%B9%B4)
 
 - 初唐四家（虞世南、欧阳询、褚遂良、薛稷）
-- 初唐（陆柬之、//等）
+- 初唐（陆柬之、国诠、//等）
 - //
 
 **进一步推进书法界职业道德与行风建设** [◆](https://github.com/Lingggao/BHCC#%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E4%B9%A6%E6%B3%95%E7%95%8C%E8%81%8C%E4%B8%9A%E9%81%93%E5%BE%B7%E4%B8%8E%E8%A1%8C%E9%A3%8E%E5%BB%BA%E8%AE%BE)
@@ -461,9 +461,11 @@
 
 > [点此](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%A0)前往百度百科 “国诠” 词条了解详情。
 
-图片
+<img src="https://i.postimg.cc/9XSsT0Xz/1.jpg" width = "28%" />
 
-> 图说
+> 现藏于中国故宫博物院的国诠楷书作品善见律局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
+
+//
 
 //
 
