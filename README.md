@@ -493,9 +493,9 @@
 
 > [点此](https://baike.baidu.com/item/%E5%AD%99%E8%BF%87%E5%BA%AD/340687)前往百度百科 “孙过庭” 词条了解详情。
 
-图片
+<img src="https://i.postimg.cc/d0DtmTbr/1.jpg" width = "26%" />
 
-图说
+> 孙过庭草书作品书谱局部（[∧](https://commons.wikimedia.org/wiki/File:Treatise_On_Calligraphy.jpg) 维基百科, 公有领域）
 
 //
 
