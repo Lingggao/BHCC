@@ -505,7 +505,7 @@
 
 > [点此](https://baike.baidu.com/item/%E6%9D%8E%E9%82%95/73315)前往百度百科 “李邕” 词条了解详情。
 
-<img src="https://i.postimg.cc/DyFV8Gh2/1.png" width = "50%" />
+<img src="https://i.postimg.cc/DyFV8Gh2/1.png" width = "40%" />
 
 > 李邕行书作品法华寺碑局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
