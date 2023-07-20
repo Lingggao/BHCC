@@ -91,6 +91,8 @@
 
 **进一步推进书法界职业道德与行风建设** [◆](https://github.com/Lingggao/BHCC#%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E4%B9%A6%E6%B3%95%E7%95%8C%E8%81%8C%E4%B8%9A%E9%81%93%E5%BE%B7%E4%B8%8E%E8%A1%8C%E9%A3%8E%E5%BB%BA%E8%AE%BE)
 
+**文献相似性检测** [◆]()
+
 **技术支持** [◆](https://github.com/Lingggao/BHCC#%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81)
 
 > ● 为目录导读
@@ -548,6 +550,20 @@
 
 > 本文作者书（硬笔）, 2023 年 4 月
 
+# 文献相似性检测
+
+服务商：万方检测（个人文献版 - 硕博论文）
+
+检测时间：2023 年 7 月 20 日
+
+总相似比：**8.41 %**
+
+报告编号：PL-20230720-7FC5B75B-JM
+
+<img src="https://i.postimg.cc/x1cTFKnS/1.png" width = "50%" />
+
+> 《中国书法简史》文献相似性检测简明报告, 2023 年 7 月
+
 # 技术支持
 
 &emsp;&emsp;撰写本文时，使用了如下产品和服务。笔者表示诚挚的谢意。
@@ -555,6 +571,7 @@
 &emsp;&emsp;（排名不分先后）
 
 - Typora - 编辑
+- 万方检测 - 查重
 - GitHub - 存储
 - GitBook - 存储
 - Microsoft Edge - 浏览
