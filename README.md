@@ -91,7 +91,7 @@
 
 **进一步推进书法界职业道德与行风建设** [◆](https://github.com/Lingggao/BHCC#%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E4%B9%A6%E6%B3%95%E7%95%8C%E8%81%8C%E4%B8%9A%E9%81%93%E5%BE%B7%E4%B8%8E%E8%A1%8C%E9%A3%8E%E5%BB%BA%E8%AE%BE)
 
-**文献相似性检测** [◆]()
+**文献相似性检测** [◆](https://github.com/Lingggao/BHCC#%E6%96%87%E7%8C%AE%E7%9B%B8%E4%BC%BC%E6%80%A7%E6%A3%80%E6%B5%8B)
 
 **技术支持** [◆](https://github.com/Lingggao/BHCC#%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81)
 
@@ -583,6 +583,7 @@
 - Microsoft Paint 3D - 制图
 - Adobe Lightroom Classic - 调色
 - Pixlr - 调色
+- 火龙果 - 校对
 - HITS - 访问量统计
 - “夸克 Quark” App - AI 提升图像清晰度
 - “不厌书法” App - 数字装裱
