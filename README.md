@@ -14,13 +14,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
-本文访问量：1500+
+本文访问量：1600+
 
-字数统计：11700+（中文字符）
+字数统计：11800+（中文字符）
 
 图 像：30+
 
-最近一次更新日期：2023 年 7 月 19 日
+最近一次更新日期：2023 年 7 月 21 日
 
 | [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
@@ -556,7 +556,7 @@
 
 检测时间：2023 年 7 月 20 日
 
-总相似比：**8.41 %**
+总相似比：**8.41%**
 
 报告编号：PL-20230720-7FC5B75B-JM
 
