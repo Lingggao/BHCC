@@ -625,6 +625,7 @@
 - Adobe Lightroom Classic - 调色
 - Pixlr - 调色
 - 火龙果 - 校对
+- Microsoft Bing (OpenAI ChatGPT) - 校对
 - HITS - 访问量统计
 - “夸克 Quark” App - AI 提升图像清晰度
 - “不厌书法” App - 数字装裱
