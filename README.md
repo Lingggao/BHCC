@@ -389,7 +389,7 @@
 
 > [点此](https://baike.baidu.com/item/%E9%87%8A%E6%99%BA%E6%B0%B8)前往百度百科 “释智永” 词条了解详情。
 
-<img src="https://i.postimg.cc/htMrkvyh/2.jpg" width = "25%" />
+<img src="https://i.postimg.cc/htMrkvyh/2.jpg" width = "20%" />
 
 > 释智永真书草书作品千字文（[∧](https://commons.wikimedia.org/wiki/File:ZhiYong1000charcter.jpg) 维基百科, 公有领域）
 
