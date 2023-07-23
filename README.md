@@ -25,7 +25,7 @@
 | [下载全文（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠 错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评 分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: |
 
-# 目 录
+# 目录
 
 **爱国 为民 崇德 尚艺**
 
