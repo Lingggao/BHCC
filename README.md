@@ -542,9 +542,9 @@
 
 > 张旭真书作品尚书省郎官石柱记局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
-图像
+<img src="https://i.postimg.cc/TPzC4W4Y/2.jpg" width = "25%" />
 
-> 图说
+> 张旭草书作品古诗四帖局部（[∧](https://commons.wikimedia.org/wiki/File:Zhang_Xu_Gu_Shi_Si_Tie.jpg) 维基百科, 公有领域）
 
 图像
 
