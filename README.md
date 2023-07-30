@@ -538,9 +538,9 @@
 
 > [点此](https://baike.baidu.com/item/%E5%BC%A0%E6%97%AD/2549)前往百度百科 “张旭” 词条了解详情。
 
-图片
+<img src="https://i.postimg.cc/sxW2VbjR/1.png" width = "42%" />
 
-> 图说
+> 张旭真书作品尚书省郎官石柱记局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
 图片
 
