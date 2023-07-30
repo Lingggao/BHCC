@@ -22,7 +22,7 @@
 
 最近一次更新日期：2023 年 7 月 30 日
 
-| [下载全文和图像（Markdown 格式）](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评分](https://forms.office.com/r/bYZhfkMdyy) |
+| [下载全文（Markdown 格式）和图像](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :-------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------: |
 
 # 目录
