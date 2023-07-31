@@ -682,5 +682,3 @@
 &emsp;&emsp;谢谢！
 
 [返回顶部](https://github.com/Lingggao/BHCC#%E4%B8%AD%E5%9B%BD%E4%B9%A6%E6%B3%95%E7%AE%80%E5%8F%B2)
-
-<img src="https://i.postimg.cc/mkCRGwM2/LING.png" width = "20%" />
