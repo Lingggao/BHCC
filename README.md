@@ -14,9 +14,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-本文访问量：1800+
+本文访问量：1900+
 
-字数统计：13400+（中文字符）
+字数统计：14300+（中文字符）
 
 图像：30+
 
@@ -86,7 +86,7 @@
 
 - 初唐四家（虞世南、欧阳询、褚遂良、薛稷）
 - 初唐著名书法家（陆柬之、国诠、钟绍京、孙过庭、李邕、冯承素）
-- 盛唐著名书法家（张旭、//）
+- 盛唐著名书法家（张旭、颜真卿、//）
 - //
 - 其他书法家（）
 
