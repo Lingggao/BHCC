@@ -538,15 +538,15 @@
 
 > [点此](https://baike.baidu.com/item/%E5%BC%A0%E6%97%AD/2549)前往百度百科 “张旭” 词条了解详情。
 
-<img src="https://i.postimg.cc/sxW2VbjR/1.png" width = "42%" />
+<img src="https://i.postimg.cc/sxW2VbjR/1.png" width = "45%" />
 
 > 张旭真书作品尚书省郎官石记序局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
-<img src="https://i.postimg.cc/TPzC4W4Y/2.jpg" width = "25%" />
+<img src="https://i.postimg.cc/TPzC4W4Y/2.jpg" width = "30%" />
 
 > 张旭草书作品古诗四帖局部（[∧](https://commons.wikimedia.org/wiki/File:Zhang_Xu_Gu_Shi_Si_Tie.jpg) 维基百科, 公有领域）
 
-<img src="https://i.postimg.cc/dQk5GF4j/1.png" width = "35%" />
+<img src="https://i.postimg.cc/dQk5GF4j/1.png" width = "40%" />
 
 > 张旭草书作品肚痛帖（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
