@@ -546,7 +546,7 @@
 
 > 张旭草书作品古诗四帖局部（[∧](https://commons.wikimedia.org/wiki/File:Zhang_Xu_Gu_Shi_Si_Tie.jpg) 维基百科, 公有领域）
 
-<img src="https://i.postimg.cc/dQk5GF4j/1.png" width = "40%" />
+<img src="https://i.postimg.cc/dQk5GF4j/1.png" width = "36%" />
 
 > 张旭草书作品肚痛帖（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
@@ -570,9 +570,9 @@
 
 > 现藏于中国台北故宫博物院的颜真卿行书作品祭侄文稿（[∧](https://commons.wikimedia.org/wiki/File:Jizhiwengao_xqf.jpg) 维基百科, 公有领域）
 
-图像
+<img src="https://i.postimg.cc/gJkSxw1w/1.png" width = "45%" />
 
-> 图说
+> 颜真卿真书作品多宝塔感应碑局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
 //
 
