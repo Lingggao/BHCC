@@ -20,7 +20,7 @@
 
 图像：30+
 
-最近一次更新日期：2023 年 8 月 1 日
+最近一次更新日期：2023 年 8 月 2 日
 
 | [下载全文（Markdown 格式）和图像](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :-------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------: |
@@ -566,9 +566,9 @@
 
 > [点此](https://baike.baidu.com/item/%E9%A2%9C%E7%9C%9F%E5%8D%BF/66560)前往百度百科 “颜真卿” 词条了解详情。
 
-图像
+<img src="https://i.postimg.cc/9M7t5W6n/1.jpg" width = "70%" />
 
-> 图说
+> 现藏于中国台北故宫博物院的颜真卿行书作品祭侄文稿（[∧](https://commons.wikimedia.org/wiki/File:Jizhiwengao_xqf.jpg) 维基百科, 公有领域）
 
 图像
 
