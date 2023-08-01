@@ -582,9 +582,9 @@
 
 > [点此](https://baike.baidu.com/item/%E6%80%80%E7%B4%A0/2091)前往百度百科 “怀素” 词条了解详情。
 
-图片
+<img src="https://i.postimg.cc/Z5WFrmKR/1.png" width = "65%" />
 
-> 图说
+> 现藏于中国台北故宫博物院的释怀素草书作品自叙帖局部（[∧](https://commons.wikimedia.org/wiki/File:Huaisu_-_Autobiography.jpg) 维基百科, 公有领域）
 
 //
 
