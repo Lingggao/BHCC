@@ -598,9 +598,9 @@
 
 > [点此](https://baike.baidu.com/item/%E6%9D%8E%E9%98%B3%E5%86%B0/2709012)前往百度百科 “李阳冰” 词条了解详情。
 
-图像
+<img src="https://i.postimg.cc/Ss150r47/1.png" width = "50%" />
 
-> 图说
+> 李阳冰篆书作品李氏三坟记局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
 //
 
