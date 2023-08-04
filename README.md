@@ -14,13 +14,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FBHCC&count_bg=%233955BE&title_bg=%23555555&icon=markdown.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-本文访问量：1900+
+本文访问量：2000+
 
 字数统计：15100+（中文字符）
 
 图像：40+
 
-最近一次更新日期：2023 年 8 月 4 日
+最近一次更新日期：2023 年 8 月 6 日
 
 | [下载全文（Markdown 格式）和图像](https://github.com/Lingggao/BHCC/archive/refs/heads/main.zip) | [纠错](https://forms.office.com/r/8FsxjBbuuC) | [意见建议](https://forms.office.com/r/2vkp0FWcGU) | [评分](https://forms.office.com/r/bYZhfkMdyy) |
 | :----------------------------------------------------------: | :-------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------: |
@@ -602,7 +602,7 @@
 
 > 李阳冰篆书作品李氏三坟记局部（《中国书法简史》, 制图：高楷修, CC BY-SA 4.0）
 
-//
+&emsp;&emsp;韩择木（生卒年不详，活跃于唐代开元年间），昌黎（今属辽宁省锦州市）人，官至工部尚书、散骑常侍，人称 “韩常侍”。他是 “唐宋八大家” 之首韩愈的叔父。韩择木自己也是 “唐隶四大家” 之首，其他三位是蔡有邻、李潮、史维则。他擅长八分汉隶，笔法主要源自汉代《礼器碑》，典雅秀丽、风度翩翩。韩择木的隶书代表作为《》和《》。
 
 //
 
